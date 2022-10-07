@@ -28,14 +28,14 @@ link:active {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #212121;
 }
 .contact {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #757575;
 }
 .contact:hover .contact:focus {
@@ -45,14 +45,14 @@ link:active {
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #ffffff;
 }
 .order {
   font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
-  letter-spacing: 6%;
+  letter-spacing: 0.06em;
   color: #ffffff;
   cursor: pointer;
 }
@@ -60,56 +60,56 @@ link:active {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: #212121;
 }
 .description {
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: #757575;
 }
 .work {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.17;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: #212121;
 }
 .name {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: #212121;
 }
 .team {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.19;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: #757575;
 }
 .address {
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: #ffffff;
 }
 .mail {
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
 .filter {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: #212121;
   cursor: pointer;
 }
@@ -117,21 +117,29 @@ link:active {
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
-  letter-spacing: 6%;
+  letter-spacing: 0.06em;
   color: #212121;
 }
 .type {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.87;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   color: #757575;
 }
 .mail2 {
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
   text-decoration-line: underline;
   color: rgba(255, 255, 255, 0.6);
+}
+.logo2 {
+  font-family: "Raleway";
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #ffffff;
 }
