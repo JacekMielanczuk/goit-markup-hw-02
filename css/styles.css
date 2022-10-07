@@ -16,7 +16,6 @@ link:active {
 }
 .logo {
   font-family: "Raleway";
-  font-weight: normal;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -26,14 +25,14 @@ link:active {
   color: #2196f3;
 }
 .navi {
-  font-weight: Medium;
+  font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 2%;
   color: #212121;
 }
 .contact {
-  font-style: medium;
+  font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 2%;
@@ -50,9 +49,44 @@ link:active {
   color: #ffffff;
 }
 .order {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
   letter-spacing: 6%;
   color: #ffffff;
+}
+.feature {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 3%;
+  color: #212121;
+}
+.description {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 3%;
+  color: #757575;
+}
+.work {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.17;
+  letter-spacing: 3%;
+  color: #212121;
+}
+.name {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.19;
+  letter-spacing: 3%;
+  color: #212121;
+}
+.team {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.19;
+  letter-spacing: 3%;
+  color: #757575;
 }
